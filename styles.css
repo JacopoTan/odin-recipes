@@ -1,3 +1,14 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .headline {
     background-color: #ff7f50c5;
     color: black;
